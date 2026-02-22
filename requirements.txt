@@ -1,0 +1,4 @@
+google-genai
+pillow
+sqlalchemy
+psycopg2-binary
